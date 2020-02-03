@@ -8,5 +8,6 @@
 </head>
 <body>
 test2.jsp 수정
+    깃허브~~~~틀리다~~
 </body>
 </html>
